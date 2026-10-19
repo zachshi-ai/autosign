@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自动签到</string>
+    <string name="service_label">自动签到服务</string>
+    <string name="service_desc">用于读取屏幕控件并自动完成每日签到操作。</string>
+</resources>
